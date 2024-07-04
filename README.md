@@ -8,7 +8,7 @@
 
 **Duration:** 1st-July to 1st-August-2024
 
-**Mentor:** MUZAMMIL AHMED
+**Mentor:** NEELA SANTHOSH KUMAR
 
 
 
