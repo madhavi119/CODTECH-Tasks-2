@@ -21,37 +21,37 @@ The project "Student Grade Tracker" using Python programming typically involves 
 
 - **Create a Student class to store information about each student, such as:**
   
-List of enrolled courses and corresponding grades
+- List of enrolled courses and corresponding grades
 
-Methods to add grades, calculate GPA, etc.  
+- Methods to add grades, calculate GPA, etc.  
     
 **Grade Tracker System:**
 
 - **Implement functions or methods to perform operations such as:**
   
-Adding a new student
+- Adding a new student
 
-Adding grades for a student
+- Adding grades for a student
 
-Displaying a student's grades
+- Displaying a student's grades
 
-Calculating GPA for a student
+- Calculating GPA for a student
 
-Displaying GPA statistics (average GPA, highest GPA, etc.)
+- Displaying GPA statistics (average GPA, highest GPA, etc.)
 
 **Functionality:**
 
 - **Ensure the program can handle:**
-- 
-Adding multiple students
+  
+- Adding multiple students
 
-Adding multiple courses and grades per student
+- Adding multiple courses and grades per student
 
-Updating grades
+- Updating grades
 
-Deleting students or specific grades
+- Deleting students or specific grades
 
-Generating reports (e.g., top students, average GPA by course, etc.)
+- Generating reports (e.g., top students, average GPA by course, etc.)
 
 **Considerations:**
 
