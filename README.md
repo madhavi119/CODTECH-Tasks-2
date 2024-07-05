@@ -6,7 +6,7 @@
 
 **Domain:** Python Programming
 
-**Duration:** 1st-July to 1st-August-2024
+**Duration:** July to August 2024
 
 **Mentor:** NEELA SANTHOSH KUMAR
 
